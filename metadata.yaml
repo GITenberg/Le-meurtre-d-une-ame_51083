@@ -1,4 +1,8 @@
 _repo: Le-meurtre-d-une-ame_51083
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51083-h/images/cover.jpg
 creator:
   author:
     agent_name: Lesueur, Daniel
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42911
     wikipedia: http://fr.wikipedia.org/wiki/Jeanne_Lapauze
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51083#Le-meurtre-d-une-ame
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Littérature
